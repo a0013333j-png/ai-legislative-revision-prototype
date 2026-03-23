@@ -59,7 +59,7 @@ ai-legislative-revision-prototype/
 
 ---
 
-##輸入格式（Input Format）
+## 輸入格式（Input Format）
 
 建立 `data/input_article.json`:
 ```
