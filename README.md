@@ -75,7 +75,7 @@ ai-legislative-revision-prototype/
 
 ## Input Format
 
-# Single Article
+## Single Article
 Create `data/input_article.json`:
 ```
 {
@@ -90,7 +90,7 @@ Create `data/input_article.json`:
 }
 ```
 
-# Multi-Article
+## Multi-Article
 Create `data/input_articles.json`:
 ```
 {
