@@ -49,7 +49,7 @@ ai-legislative-revision-prototype/
 ## Input Format
 
 Create `data/input_article.json`:
-
+```
 {
   "law_name": "Test Act",
   "article_no": "Article 3",
@@ -60,6 +60,7 @@ Create `data/input_article.json`:
     "Discretion should not be expanded excessively."
   ]
 }
+```
 
 ## How to Run
 
