@@ -42,8 +42,10 @@ ai-legislative-revision-prototype/
 │   └── app.py
 ├── data/
 │   └── input_article.json
-└── output/
-    └── comparison.csv
+├── output/
+│   └── comparison.csv
+└── examples/
+    └── comparison_example.csv
 ```
 
 ---
@@ -100,6 +102,7 @@ CSV columns:
 - original_text
 - revised_text
 - reason
+- risk_note
 
 ## Notes
 
