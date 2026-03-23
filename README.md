@@ -64,9 +64,12 @@ ai-legislative-revision-prototype/
 │   ├── input_article.json
 │   └── input_articles.json
 ├── output/
-│   └── comparison.csv
+│   ├──  comparison.csv
+│   └──  comparison_multi.csv
 └── examples/
-    └── comparison_example.csv
+    ├── comparison_example.csv
+    └── comparison_multi_example.csv
+
 ```
 
 ---
