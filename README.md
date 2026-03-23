@@ -41,7 +41,10 @@ ai-legislative-revision-prototype/
 ├── data/
 │   └── input_article.json
 └── output/
-    └── comparison.csv`
+    └── comparison.csv
+```
+
+---
 
 ## Input Format
 
