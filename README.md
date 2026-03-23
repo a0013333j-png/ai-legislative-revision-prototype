@@ -69,7 +69,6 @@ ai-legislative-revision-prototype/
 └── examples/
     ├── comparison_example.csv
     └── comparison_multi_example.csv
-
 ```
 
 ---
