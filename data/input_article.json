@@ -1,7 +1,7 @@
 {
-  "law_name": "測試法",
+  "law_name": "少年事件處理法",
+  "pcode": "C0010011",
   "article_no": "第3條",
-  "original_text": "主管機關得視需要命相關人員提出報告。",
   "revision_goal": "限縮權限",
   "background": [
     "依憲法比例原則，行政權限應有明確界限",
