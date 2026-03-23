@@ -45,7 +45,7 @@ ai-legislative-revision-prototype/
 
 ## Input Format
 
-Create data/input_article.json:
+Create `data/input_article.json`:
 
 {
   "law_name": "Test Act",
