@@ -70,8 +70,13 @@ pip install -r requirements.txt
 ```
 
 Set your API key:
+---mac / Linux：
 ```bash
 export OPENAI_API_KEY="your_api_key"
+```
+---Windows（PowerShell）：
+```PowerShell
+setx OPENAI_API_KEY "你的key"
 ```
 
 Run:
