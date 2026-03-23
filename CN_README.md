@@ -75,8 +75,8 @@ ai-legislative-revision-prototype/
 }
 ```
 說明：
-- pcode：全國法規資料庫之法規代碼（用於自動抓取條文）
-- background：作為不可違反之法律限制
+- `pcode`：全國法規資料庫之法規代碼（用於自動抓取條文）
+- `background`：作為不可違反之法律限制
 
 ## 執行方式（How to Run）
 
