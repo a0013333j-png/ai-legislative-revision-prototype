@@ -65,22 +65,24 @@ Create `data/input_article.json`:
 ## How to Run
 
 Install dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
 Set your API key:
-
+```bash
 export OPENAI_API_KEY="your_api_key"
+```
 
 Run:
-
+```bash
 python src/app.py
+```
 
 ## Output
 
 The script generates:
-
-output/comparison.csv
+`output/comparison.csv`
 
 CSV columns:
 - law_name
