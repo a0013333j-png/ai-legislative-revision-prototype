@@ -28,6 +28,8 @@ It only tests whether a revision goal and background constraints can guide artic
 - Background constraints as hard limits
 - AI-generated revised text and reason
 - CSV comparison output
+- Automatic law article fetching from Taiwan Laws & Regulations Database by pcode
+- Risk note generation for revision output
 
 ## Project Structure
 
@@ -51,13 +53,13 @@ ai-legislative-revision-prototype/
 Create `data/input_article.json`:
 ```
 {
-  "law_name": "Test Act",
-  "article_no": "Article 3",
-  "original_text": "The competent authority may, where necessary, require relevant persons to submit a report.",
-  "revision_goal": "Restrict administrative discretion",
+  "law_name": "少年事件處理法",
+  "pcode": "C0010011",
+  "article_no": "第3條",
+  "revision_goal": "限縮權限",
   "background": [
-    "Administrative power should have clear limits under the principle of proportionality.",
-    "Discretion should not be expanded excessively."
+    "依憲法比例原則，行政權限應有明確界限",
+    "不得過度擴張行政裁量"
   ]
 }
 ```
