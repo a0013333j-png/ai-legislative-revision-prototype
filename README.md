@@ -31,6 +31,7 @@ It only tests whether a revision goal and background constraints can guide artic
 
 ## Project Structure
 
+```text
 ai-legislative-revision-prototype/
 ├── README.md
 ├── requirements.txt
@@ -40,7 +41,7 @@ ai-legislative-revision-prototype/
 ├── data/
 │   └── input_article.json
 └── output/
-    └── comparison.csv
+    └── comparison.csv```
 
 ## Input Format
 
